@@ -1,0 +1,13 @@
+# Models (downloaded separately)
+*.tflite
+*.task
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
